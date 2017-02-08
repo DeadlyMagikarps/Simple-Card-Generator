@@ -5,6 +5,9 @@
 // Header Files
 #include "Card.h"
 
+// Global Variables
+std::string SUIT = "SUIT";
+
 // CARD CLASS IMPLEMENTATIONS
 /*
   NOTE: "using namespace std;" has been omitted for this program.
